@@ -36,6 +36,5 @@ This project showcased my proficiency in orchestrating advanced AI models for mu
   <img src="https://user-images.githubusercontent.com/10207753/93004894-e8d48d00-f564-11ea-9f34-8614c783e98a.jpg" height="400" /> 
     <p/>
     
-### Created & Maintained By
 
-[@MA](https://github.com/amirk3321) , Youtube : [@eTechViral](https://www.youtube.com/c/eTechViral) , Twitter  : [@MA](https://twitter.com/__muhammad_amir)
+
